@@ -1,0 +1,2 @@
+# edict.ai
+EDI Project
